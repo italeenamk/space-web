@@ -1,0 +1,45 @@
+.sidebar-content {}
+.sidebar-content .container-fluid {}
+.sidebar-content .container-fluid .row {
+    padding: 55px 10%;
+}
+.sidebar-heading-content {}
+.sidebar-heading-content h3 {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 35px;
+    font-weight: 400;
+}
+.sidebar-heading-content h3 span {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: 600;
+}
+.sidebar-heading-content h3 span i {
+    color: #ff2e63 !important;
+    font-size: 8px;
+}
+.sidebar-heading-content p {
+    font-family: "Roboto Mono", monospace;
+    color: black !important;
+    font-size: 17px;
+    font-weight: 500;
+}
+.sidebar-heading-content button {
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    background: black;
+    transition: 0.2s;
+    border-right: transparent !important;
+    border: 1px solid black;
+    outline: none;
+    padding: 15px;
+    margin-top: 9px;
+}
+.sidebar-heading-content button:hover {
+    color: black;
+    background: transparent;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}

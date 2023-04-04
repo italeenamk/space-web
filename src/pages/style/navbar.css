@@ -1,7 +1,7 @@
 .navbar-content {}
 .navbar-content .container-fluid {}
 .navbar-content .container-fluid .row {
-    padding: 20px 10%;
+    padding: 8px 10%;
 }
 .navbar-nav {
     display: contents;
