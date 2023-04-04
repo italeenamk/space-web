@@ -45,15 +45,20 @@
     font-size: 15px;
 }
 .dropdown-menu {
-    display: block;
+    display: none;
     min-width: 7rem;
     padding: 0;
     border: none;
     box-shadow: 1px 1px 5px 1px #80808021;
     margin-top: 10px;
     margin-left: -10px;
+    border-radius: 5px;
     z-index: 100;
 }
 .dropdown-menu a {
     padding: 0.399rem 1.5rem;
+}
+.dropdown-item {}
+.dropdown-item:hover {
+    background: none !important;
 }

@@ -33,12 +33,9 @@ const Navbar = () => {
                                               <div className="dropdown-menu">
                                                   <a className="dropdown-item" href="#">Elements</a>
                                                   <a className="dropdown-item" href="#">Menu Two</a>
-                                                  <a className="dropdown-item" href="#">Link 3</a>
+                                                  <a className="dropdown-item" href="#">Sub Menu One</a>
+                                                  <a className="dropdown-item" href="#">Menu Three</a>
                                               </div>
-
-
-                                              Menu Three
-
                                           </div>
                                       </li>
                                       <li className="nav-item">
