@@ -1,0 +1,122 @@
+.img-sidebar-main-content {}
+.img-sidebar-main-content .container-fluid {}
+.img-sidebar-main-content .container-fluid .row {
+    padding: 50px 10%;
+}
+.img-sidebar-content {}
+.img-sidebar-content img {
+    border-radius: 5px;
+    cursor: pointer;
+}
+.overly {}
+.overly {}
+/*extra*/
+.wrap
+{
+    margin:50px auto 0 auto;
+    width:100%;
+    display:flex;
+    align-items:space-around;
+    max-width:1200px;
+}
+.tile
+{
+    width: 100%;
+    height:540px;
+    background-color: #000000b3;
+    display:inline-block;
+    margin: 10px 0;
+    background-size:cover;
+    position:relative;
+    cursor:pointer;
+    transition: all 0.4s ease-out;
+    color:white;
+    border-radius: 7px;
+
+}
+.tile img
+{
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:0;
+    transition: all 0.4s ease-out;
+}
+.tile:hover
+{
+    /*   background-color:#99aeff; */
+}
+.tile:hover img
+{
+    opacity: 0.3;
+}
+
+
+@media (max-width: 1000px) {
+    .wrap {
+        flex-direction: column;
+        width:400px;
+    }
+}
+.tile:hover .overlay {
+    opacity: 20;
+}
+.overlay {
+    display: block;
+    opacity: 0;
+    position: absolute;
+    height: 78px;
+    padding: 15px 23px;
+    margin-left: 0;
+    width: 100%;
+}
+.product-top:hover .overlay{
+    opacity: 1;
+    /*top: 66%;*/
+    top: 73%;
+    transition: 0.5s;
+}
+.hover-effect-content {
+    display: flex;
+    justify-content: space-between;
+}
+.hover-effect-heading {}
+.hover-effect-heading h3 {
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: 400;
+    color: white;
+    font-family: "Poppins",sans-serif;
+}
+.hover-effect-heading p {
+    margin-bottom: 2px;
+    font-size: 13px;
+    margin-top: -4px;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "Roboto Mono", monospace;
+}
+.hover-effect-button {
+    margin-top: -456px;
+}
+.hover-effect-button a i {
+    margin-top: 2px;
+}
+.hover-effect-button a {
+    text-decoration: none;
+    padding: 8px 10px;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    border-radius: 50px;
+}
+
+/*extra*/
+.portfolio-img-hover-content {
+    border-radius: 10px;
+    position: relative;
+    width: 100%;
+    z-index: 100;
+    top: 462px;
+}
