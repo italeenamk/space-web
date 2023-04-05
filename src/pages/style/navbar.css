@@ -47,7 +47,7 @@
 .dropdown-menu {
     display: none;
     min-width: 7rem;
-    padding: 0;
+    padding: 13px 0;
     border: none;
     box-shadow: 1px 1px 5px 1px #80808021;
     margin-top: 10px;

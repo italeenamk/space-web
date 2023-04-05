@@ -1,0 +1,62 @@
+.services-main-content {}
+.main-heading-content {}
+.main-heading-content .container-fluid {}
+.main-heading-content .container-fluid .row {}
+.main-heading {}
+.main-heading h3 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+.main-heading p {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 9px;
+}
+.waves-content {}
+.waves-content i {
+    font-size: 18px;
+    margin: -1px;
+    color: #aaa;
+    margin-top: 6px;
+}
+.main-card-colum {}
+.main-card-colum .container-fluid {}
+.main-card-colum .container-fluid .row {
+    padding: 0 10%;
+}
+.card-colum-content {
+    margin: 25px 0;
+}
+.card-colum-content span {
+    position: relative;
+    display: inline-block;
+}
+.card-colum-content span i {
+    font-size: 40px;
+    margin-bottom: 18px;
+}
+.card-colum-content span i {}
+.card-colum-content span i::after {
+    position: absolute;
+
+    content: "";
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+    background: #ff2e63;
+    bottom: 0px;
+    right: -11px;
+    z-index: -1;
+    top: 10px;
+}
+.card-colum-content h4 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+}
+.card-colum-content p {
+    font-family: "Roboto Mono", monospace;
+    color: #aaa;
+}

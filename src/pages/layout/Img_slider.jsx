@@ -44,7 +44,7 @@ const Img_slider = () => {
                                   </div>
                               </div>
                           </div>
-                          <div className="tile">
+                          <div className="tile" style={{height:"538px"}}>
                               <div className="img-sidebar-content">
                                   <img src="https://preview.colorlib.com/theme/space/images/img_9.jpg.webp" className="img-fluid"/>
                                   <div className="portfolio-img-hover-content">
@@ -102,7 +102,7 @@ const Img_slider = () => {
                           </div>
                           <div className="tile" style={{height:"380px"}}>
                               <div className="img-sidebar-content">
-                                  <img src="https://preview.colorlib.com/theme/space/images/img_8.jpg.webp" className="img-fluid"/>
+                                  <img src="https://preview.colorlib.com/theme/space/images/img_8.jpg.webp" style={{height:"102%"}} className="img-fluid"/>
                                   <div className="portfolio-img-hover-content" style={{top:"304px"}}>
                                       <div className="overlay">
                                           <div className="hover-effect-content">
@@ -210,7 +210,7 @@ const Img_slider = () => {
                                   </div>
                               </div>
                           </div>
-                          <div className="tile" style={{height:"223px"}}>
+                          <div className="tile" style={{height:"230px"}}>
                               <div className="img-sidebar-content">
                                   <img src="https://preview.colorlib.com/theme/space/images/img_12.jpg.webp" className="img-fluid"/>
                                   <div className="portfolio-img-hover-content" style={{top:"146px"}}>
