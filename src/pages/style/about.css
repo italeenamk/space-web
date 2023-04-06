@@ -30,20 +30,44 @@
 .experience-main-content {}
 .experience-main-content {
     background: #ff2e63;
-    width: 50%;
-    padding: 16px;
+    width: 54%;
+    padding: 18px;
     top: -41%;
     position: relative;
-    right: -307px;
+    right: -285px;
     color: #ffffff;
     padding-left: 30px;
     display: grid;
 }
 .experience-main-content span {
     font-family: "Poppins",sans-serif;
+    font-size: 19px;
 }
 .experience-main-content a {
     color: white;
+    font-size: 17px;
     text-decoration: none;
     font-family: "Roboto Mono", monospace;
+}
+.experience-main-content a i {
+    font-size: 14px;
+}
+.about-me-information-content {
+    padding-left: 55px;
+}
+.bio-content {}
+.bio-content h3 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+.bio-content p {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 9px;
+}
+.work-experience-main-content {}
+.work-experience-main-content .row {
+    padding: 0 !important;
 }
