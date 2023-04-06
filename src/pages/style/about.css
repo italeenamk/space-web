@@ -71,3 +71,39 @@
 .work-experience-main-content .row {
     padding: 0 !important;
 }
+.experience-content {
+    display: flex;
+    justify-content: space-between;
+}
+.experience-content {
+    margin-top: 23px;
+    margin-bottom: 4px;
+}
+.experience-content:hover i {
+    color: #ff2e63;
+}
+.icon-content {}
+.icon-content i {
+    font-size: 20px;
+    transition: 0.3s;
+    color: #ccc;
+}
+.text-content {}
+.text-content h3 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.text-content p {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: -1px;
+    margin-top: -7px;
+}
+.text-content span {
+    font-family: "Roboto Mono", monospace;
+    font-size: 14px;
+    font-weight: 400;
+    color: #aaa;
+}

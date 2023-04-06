@@ -50,9 +50,81 @@ const About = () => {
                                       </div>
                                       <div className="row">
                                           <div className="col-md-6 col-sm-12">
-                                              <div className="experience-content"></div>
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Senior Web Designer</h3>
+                                                      <p>XYZ Agency</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
                                           </div>
-                                          <div className="col-md-6 col-sm-12"></div>
+                                          <div className="col-md-6 col-sm-12">
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Front-end Engineer</h3>
+                                                      <p> StudioLab Studio</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      <div className="row">
+                                          <div className="col-md-6 col-sm-12">
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Senior Web Designer</h3>
+                                                      <p>XYZ Agency</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                          <div className="col-md-6 col-sm-12">
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Front-end Engineer</h3>
+                                                      <p> StudioLab Studio</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                      <div className="row">
+                                          <div className="col-md-6 col-sm-12">
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Senior Web Designer</h3>
+                                                      <p>XYZ Agency</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                          <div className="col-md-6 col-sm-12">
+                                              <div className="experience-content">
+                                                  <div className="icon-content">
+                                                      <i className="fa-solid fa-tarp"></i>
+                                                  </div>
+                                                  <div className="text-content">
+                                                      <h3>Front-end Engineer</h3>
+                                                      <p> StudioLab Studio</p>
+                                                      <span>2012-2014</span>
+                                                  </div>
+                                              </div>
+                                          </div>
                                       </div>
                                   </div>
                               </div>
