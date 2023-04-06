@@ -1,0 +1,49 @@
+.about-main-content {}
+.about-heading-content {}
+.about-heading-content .container-fluid {}
+.about-heading-content .container-fluid .row {
+    padding: 55px 10%;
+}
+.about-me-main-content {}
+.about-me-main-content .container-fluid {}
+.about-me-main-content .container-fluid .row {
+    padding: 0 10%;
+}
+.about-me-img-background-content {}
+.about-me-img-background-content::before {
+    z-index: -1;
+    content: "";
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 268px;
+    height: 224px;
+    background-image: url("https://preview.colorlib.com/theme/space/images/dots.png.webp");
+    background-repeat: no-repeat;
+}
+.reveal-content {}
+.reveal-content {
+    visibility: inherit;
+    opacity: 1;
+}
+.reveal-content img {}
+.experience-main-content {}
+.experience-main-content {
+    background: #ff2e63;
+    width: 50%;
+    padding: 16px;
+    top: -41%;
+    position: relative;
+    right: -307px;
+    color: #ffffff;
+    padding-left: 30px;
+    display: grid;
+}
+.experience-main-content span {
+    font-family: "Poppins",sans-serif;
+}
+.experience-main-content a {
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto Mono", monospace;
+}
