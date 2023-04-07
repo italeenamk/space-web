@@ -73,7 +73,6 @@
 }
 .experience-content {
     display: flex;
-    justify-content: space-between;
 }
 .experience-content {
     margin-top: 23px;
@@ -84,15 +83,18 @@
 }
 .icon-content {}
 .icon-content i {
+    content: "\e8f7";
     font-size: 20px;
     transition: 0.3s;
     color: #ccc;
 }
-.text-content {}
+.text-content {
+    padding-left: 23px;
+}
 .text-content h3 {
     font-family: "Poppins",sans-serif;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 17px;
 }
 .text-content p {
     font-family: "Roboto Mono", monospace;

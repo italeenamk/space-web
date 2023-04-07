@@ -1,0 +1,12 @@
+.skills-main-content {}
+.skills-percentage-main-content {}
+.skills-percentage-main-content .container-fluid {}
+.skills-percentage-main-content .container-fluid .row {
+    padding: 65px 10%;
+}
+.skills-percentage-content {}
+.skills-percentage-content h3 {}
+.skills-percentage-content p {}
+.circle-border-content {
+    background-image: url("blob:null/a8e4bd11-8130-4235-a584-86aa789a7873");
+}
