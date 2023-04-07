@@ -23,16 +23,102 @@ const Skills = () => {
               <div className="skills-percentage-main-content">
                   <div className="container-fluid">
                       <div className="row">
-                          <div className="col-md-3 col-sm-12">
+                          <div className="col-md-3 text-center col-sm-12">
                               <div className="skills-percentage-content">
-                                  <div className="circle-border-content">hjh</div>
-                                  <h3>98%</h3>
+                                  <div className="circle-border-content">
+                                      <div className="circle-wrap">
+                                          <div className="circle">
+
+                                              <div className="mask full">
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="mask half">
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="inside-circle">
+                                                  98%
+                                              </div>
+
+                                          </div>
+                                      </div>
+                                  </div>
                                   <p>WordPress</p>
                               </div>
                           </div>
-                          <div className="col-md-3 col-sm-12"></div>
-                          <div className="col-md-3 col-sm-12"></div>
-                          <div className="col-md-3 col-sm-12"></div>
+                          <div className="col-md-3 text-center col-sm-12">
+                              <div className="skills-percentage-content">
+                                  <div className="circle-border-content">
+                                      <div className="circle-wrap">
+                                          <div className="circle">
+
+                                              <div className="mask full" style={{transform:"rotate(159deg)"}}>
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="mask half">
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="inside-circle">
+                                                  95%
+                                              </div>
+
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <p>Web Design</p>
+                              </div>
+                          </div>
+                          <div className="col-md-3 text-center col-sm-12">
+                              <div className="skills-percentage-content">
+                                  <div className="circle-border-content">
+                                      <div className="circle-wrap">
+                                          <div className="circle">
+
+                                              <div className="mask full" style={{transform:"rotate(141deg)"}}>
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="mask half">
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="inside-circle">
+                                                  89%
+                                              </div>
+
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <p>Web/Mobile App</p>
+                              </div>
+                          </div>
+                          <div className="col-md-3 text-center col-sm-12">
+                              <div className="skills-percentage-content">
+                                  <div className="circle-border-content">
+                                      <div className="circle-wrap">
+                                          <div className="circle">
+
+                                              <div className="mask full" style={{transform:"rotate(146deg)"}}>
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="mask half">
+                                                  <div className="fill"></div>
+                                              </div>
+
+                                              <div className="inside-circle">
+                                                  85%
+                                              </div>
+
+                                          </div>
+                                      </div>
+                                  </div>
+                                  <p>Photoshop</p>
+                              </div>
+                          </div>
                       </div>
                   </div>
               </div>
