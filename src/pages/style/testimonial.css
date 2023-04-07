@@ -40,3 +40,9 @@
     font-size: 16px;
     font-weight: 500;
 }
+/*slider-content*/
+.slider-content {}
+.slider-content .container-fluid {}
+.slider-content .row {
+    padding: 20px 5%;
+}
