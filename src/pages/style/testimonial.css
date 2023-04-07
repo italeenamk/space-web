@@ -1,0 +1,42 @@
+.testimonials-main-content {}
+.testimonial-card-main-content {}
+.testimonial-card-main-content .container-fluid {}
+.testimonial-card-main-content .container-fluid .row {
+    padding: 35px 10%;
+}
+.testimonial-card {}
+.testimonial-card .card {
+    border-radius: 0;
+    border: 1px solid #80808014;
+    padding: 41px 28px;
+    margin: 10px 0;
+    transition: 0.3s;
+}
+.testimonial-card .card:hover {
+    border: 1px solid #ff2e63;
+}
+.testimonial-card .card .testimonial-information-content {}
+.testimonial-card .card .testimonial-information-content img {
+    width: 24%;
+    margin-bottom: 14px;
+    border-radius: 50%;
+}
+.testimonial-card .card .testimonial-information-content h3 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+}
+.testimonial-card .card .testimonial-information-content span {
+    font-family: "Roboto Mono", monospace;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 25px;
+    color: #aaa;
+}
+.testimonial-card .card .testimonial-information-content p {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 500;
+}
