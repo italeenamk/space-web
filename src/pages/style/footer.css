@@ -1,0 +1,87 @@
+.footer-main-content {
+    margin-top: 95px;
+    background: #222;
+}
+.footer-list-content {
+}
+.footer-list-content .container-fluid {}
+.footer-list-content .container-fluid .row {
+    padding: 55px 10%;
+    padding-top: 66px;
+}
+.list-colum-content {}
+.list-colum-content h3 {
+    font-family: "Poppins",sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+}
+.list-colum-content p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+}
+.list-colum-content nav {
+    margin-top: 23px;
+}
+.list-colum-content nav ul {}
+.list-colum-content nav ul li {
+    list-style: none;
+    margin: 12px 0;
+}
+.list-colum-content nav ul li a {
+    text-decoration: none;
+    color: #6e6d6d;
+    font-family: "Roboto Mono", monospace;
+    font-size: 17px;
+    font-weight: 400;
+    transition: 0.2s;
+}
+.list-colum-content nav ul li a:hover {
+    color: white;
+}
+.icon-list-content {
+    margin-top: 21px;
+    margin-left: -5px;
+}
+.icon-list-content i {
+    color: white;
+    margin: 5px 6px;
+    transition: 0.2s;
+    background: #ff2e63;
+    font-size: 14px;
+    border-radius: 62px;
+    cursor: pointer;
+    padding: 10px 10px;
+}
+.icon-list-content i:hover {
+    background: #fd5580;
+}
+.footer-copy-link-main-content {}
+.footer-copy-link-main-content .container-fluid {}
+.footer-copy-link-main-content .container-fluid .row {
+    padding: 50px 0;
+}
+.copy-link {}
+.copy-link p {
+    color: #aaaaaa;
+    font-family: "Roboto Mono", monospace;
+    font-size: 17px;
+    font-weight: 400;
+}
+.copy-link p i {
+    color: #ff2e63;
+}
+.copy-link p span {
+    color: #898989;
+    font-family: "Roboto Mono", monospace;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: 400;
+    transition: 0.2s;
+}
+.copy-link p span:hover {
+    color: white;
+}

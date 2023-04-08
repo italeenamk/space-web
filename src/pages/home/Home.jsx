@@ -7,6 +7,7 @@ import Skills from "../layout/Skills";
 import Testimonials from "../layout/Testimonials";
 import Blog from "../layout/Blog";
 import Contact from "../layout/Contact";
+import Footer from "../layout/Footer";
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
           <Testimonials/>
           <Blog/>
           <Contact/>
+          <Footer/>
       </>
   )
 }
