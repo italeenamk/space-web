@@ -1,0 +1,57 @@
+.contact-main-content {}
+.contact-content {}
+.contact-content .container-fluid {}
+.contact-content .container-fluid .row {
+    padding: 0 10%;
+    padding-top: 55px;
+}
+.contact-form-content {}
+.email-input-content {
+    margin: 16px 0;
+}
+.email-input-content input::placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    color: #495057;
+}
+.email-input-content input {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    color: #495057;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    border-bottom: 1px solid #43434d;
+    background: transparent;
+    padding-bottom: 10px;
+}
+.email-input-content input:focus{
+    border-bottom: 1px solid #ff2e63;
+}
+.colum-input-content {}
+.colum-input-content .row {
+    padding: 0 !important;
+}
+.message-content {}
+.message-content textarea {
+    font-family: "Roboto Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    color: #495057;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    border-bottom: 1px solid #43434d;
+    background: transparent;
+    padding-bottom: 10px;
+}
+.message-content textarea:focus {
+    border-bottom: 1px solid #ff2e63;
+}
+.contact-form-content button {}
+.contact-form-content button {}

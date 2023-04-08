@@ -6,6 +6,7 @@ import About from "../layout/About";
 import Skills from "../layout/Skills";
 import Testimonials from "../layout/Testimonials";
 import Blog from "../layout/Blog";
+import Contact from "../layout/Contact";
 
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
           <Skills/>
           <Testimonials/>
           <Blog/>
+          <Contact/>
       </>
   )
 }
