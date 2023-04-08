@@ -1,7 +1,7 @@
 .testimonials-main-content {}
 .testimonial-card-main-content {}
 .testimonial-card-main-content .container-fluid {}
-.testimonial-card-main-content .container-fluid .row {
+. .container-fluid .row {
     padding: 35px 10%;
 }
 .testimonial-card {}

@@ -5,6 +5,7 @@ import Services from "../layout/services";
 import About from "../layout/About";
 import Skills from "../layout/Skills";
 import Testimonials from "../layout/Testimonials";
+import Blog from "../layout/Blog";
 
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
           <About/>
           <Skills/>
           <Testimonials/>
+          <Blog/>
       </>
   )
 }
