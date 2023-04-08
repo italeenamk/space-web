@@ -46,3 +46,23 @@
 .slider-content .row {
     padding: 20px 5%;
 }
+.carousel-control-prev {
+    color: black;
+    width: 0;
+    opacity: 1;
+    transition: 0.2s;
+}
+.carousel-control-prev:hover {
+    color: #ff2e63;
+    left: -3px;
+}
+.carousel-control-next {
+    color: black;
+    width: 0;
+    opacity: 1;
+    transition: 0.2s;
+}
+.carousel-control-next:hover {
+    color: #ff2e63;
+    right: -3px;
+}
