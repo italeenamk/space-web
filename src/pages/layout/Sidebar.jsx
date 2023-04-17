@@ -1,4 +1,5 @@
 import '../style/sidebar.css';
+import '../style/mobilescreen.css';
 
 
 const Sidebar = () => {

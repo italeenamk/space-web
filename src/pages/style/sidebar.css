@@ -21,7 +21,7 @@
 }
 .sidebar-heading-content p {
     font-family: "Roboto Mono", monospace;
-    color: black !important;
+    color: black;
     font-size: 17px;
     font-weight: 500;
 }

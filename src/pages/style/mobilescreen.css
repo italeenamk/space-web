@@ -1,0 +1,67 @@
+/*@media only screen and (max-width: 768px){*/
+/*    .container-fluid .card p {*/
+/*        font-size: 12px !important;*/
+/*    }*/
+/*}*/
+/*tablet-screen*/
+@media only screen and (max-width: 768px) and (min-width: 588px){
+    .img-sidebar-main-content .container-fluid .row {
+        padding: 50px 1% !important;
+    }
+    .tile {
+        width: 108% !important;
+    }
+    .navbar-content .container-fluid .row {
+        padding: 8px 2% !important;
+    }
+    .sidebar-content .container-fluid .row {
+        padding: 55px 4% !important;
+    }
+    .main-card-colum .container-fluid .row {
+        padding: 0 3% !important;
+    }
+    .card-colum-content p {
+        font-size: 13px !important;
+    }
+    .card-colum-content h4 {
+        font-size: 14px !important;
+    }
+    .experience-main-content {
+        top: -21% !important;
+        padding: 11px !important;
+        padding-left: 16px !important;
+        right: -189px !important;
+    }
+    .experience-main-content span {
+        font-size: 13px !important;
+    }
+    .experience-main-content a {
+        margin-top: 4px !important;
+        font-size: 13px !important;
+    }
+    .main-heading p {
+        font-size: 14px !important;
+    }
+    .main-heading h3 {
+        font-size: 19px !important;
+    }
+    .bio-content p {
+        font-size: 14px !important;
+    }
+    .bio-content h3 {
+        font-size: 19px !important;
+    }
+    .text-content h3 {
+        font-size: 14px !important;
+    }
+    .text-content p {
+        font-size: 11px !important;
+        margin-top: -2px !important;
+    }
+    .text-content span {
+        font-size: 11px !important;
+    }
+    .work-experience-main-content {
+        display: none !important;
+    }
+}
