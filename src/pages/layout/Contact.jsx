@@ -81,7 +81,9 @@ const Contact = () => {
                                       <div className="row">
                                           <div className="col-md-6">
                                               <div className="contact-me-bottom-map-content">
-                                                  <img src="http://localhost:3001/static/media/Screen-Shot-2016-06-23-at-3.31.37-PM.d08848629f50dc4d001f.jpg" alt=""/>
+                                                  <div className="map-border-content">
+                                                      <img src="https://khms1.googleapis.com/kh?v=945&hl=en&x=271&y=484&z=10" alt=""/>
+                                                  </div>
                                               </div>
                                           </div>
                                           <div className="col-md-6 text-right">

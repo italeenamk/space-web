@@ -71,7 +71,7 @@
 }
 /*contact-map*/
 .contact-map-content {
-    background-image: url("http://localhost:3001/static/media/goole-map.ec89b7f9e21006e7a278.jpg");
+    background-image: url("https://api.time.com/wp-content/uploads/2016/07/google-maps-update.png");
     background-position: center;
     background-size: cover;
     cursor: pointer;
