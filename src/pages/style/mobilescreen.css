@@ -64,4 +64,25 @@
     .work-experience-main-content {
         display: none !important;
     }
+    .slider-content .row {
+        padding: 20px 2% !important;
+    }
+    .testimonial-card .card .testimonial-information-content p {
+        font-size: 12px !important;
+        margin-top: -15px !important;
+    }
+    .testimonial-card .card .testimonial-information-content h3 {
+        font-size: 14px !important;
+    }
+    .testimonial-card .card .testimonial-information-content span {
+        font-size: 12px !important;
+        margin-top: 2px !important;
+    }
+    .testimonial-card .card {
+        padding: 13px 13px !important;
+        margin: 10px 0 !important;
+    }
+    .testimonial-card .card .testimonial-information-content img {
+        width: 34% !important;
+    }
 }
