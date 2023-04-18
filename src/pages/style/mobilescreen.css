@@ -27,7 +27,7 @@
         font-size: 14px !important;
     }
     .experience-main-content {
-        top: -21% !important;
+        top: -42% !important;
         padding: 11px !important;
         padding-left: 16px !important;
         right: -189px !important;
@@ -84,5 +84,45 @@
     }
     .testimonial-card .card .testimonial-information-content img {
         width: 34% !important;
+    }
+    .blog-colum-main-content .container-fluid .row {
+        padding: 55px 4% !important;
+    }
+    .blog-content h3 {
+        font-size: 14px !important;
+    }
+    .blog-content p {
+        font-size: 13px !important;
+    }
+    .blog-content p span {
+        font-size: 13px !important;
+    }
+    .contact-content .container-fluid .row {
+        padding: 0 4% !important;
+        padding-top: 25px !important;
+    }
+    .contact-page-card-left-content span {
+        font-size: 11px !important;
+    }
+    .contact-page-card-left-content h4 {
+        font-size: 12px !important;
+    }
+    .contact-me-bottom-content {
+        padding-top: 203px !important;
+    }
+    .list-colum-content h3 {
+        font-size: 14px !important;
+    }
+    .list-colum-content nav ul li a {
+        font-size: 13px !important;
+    }
+    .list-colum-content p {
+        font-size: 13px !important;
+    }
+    .copy-link p {
+        font-size: 13px !important;
+    }
+    .copy-link p span {
+        font-size: 13px !important;
     }
 }
