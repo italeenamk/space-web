@@ -126,3 +126,68 @@
         font-size: 13px !important;
     }
 }
+/*mobile-320-screen*/
+@media only screen and (max-width: 320px){
+    .sidebar-heading-content button {
+        padding: 6px !important;
+    }
+    .sidebar-heading-content p {
+        margin-top: 21px !important;
+    }
+    .experience-main-content {
+        padding: 18px !important;
+        top: -47% !important;
+        right: -150px !important;
+        padding-left: 13px !important;
+    }
+    .sidebar-content .container-fluid .row {
+        padding: 55px 5% !important;
+    }
+    .navbar-content .container-fluid .row {
+        padding: 8px 0 !important;
+    }
+    .img-sidebar-main-content .container-fluid .row {
+        padding: 50px 0 !important;
+    }
+    .about-me-img-background-content::before {
+        display: none !important;
+    }
+    .main-heading h3 {
+        font-size: 21px !important;
+    }
+    .card-colum-content h4 {
+        font-size: 17px !important;
+    }
+    .card-colum-content p {
+        font-size: 14px !important;
+    }
+    .main-heading p {
+        font-size: 15px !important;
+    }
+    .main-card-colum .container-fluid .row {
+        padding: 0 5% !important;
+    }
+    .experience-main-content span {
+        font-size: 13px !important;
+    }
+    .experience-main-content a {
+        font-size: 12px !important;
+        margin-top: 4px !important;
+    }
+    .experience-main-content {
+        padding: 8px !important;
+        top: -47% !important;
+        width: 62% !important;
+        right: -123px !important;
+        padding-left: 11px !important;
+    }
+    .about-me-main-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .about-heading-content .container-fluid .row {
+        padding: 25px 4% !important;
+    }
+    .about-me-information-content {
+        padding-left: 0 !important;
+    }
+}
