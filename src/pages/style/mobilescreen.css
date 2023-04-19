@@ -190,4 +190,57 @@
     .about-me-information-content {
         padding-left: 0 !important;
     }
+    .testimonial-card .card {
+        padding: 17px 14px !important;
+    }
+    .carousel-control-next-icon {
+        display: none !important;
+    }
+    .carousel-control-prev-icon {
+        display: none !important;
+    }
+    .slider-content .row {
+        padding: 20px 4px !important;
+    }
+    .contact-form-content button {
+        font-size: 12px !important;
+        padding: 11px 16px !important;
+        margin-bottom: 12px !important;
+    }
+    .contact-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .contact-me-location-content .row {
+        padding-top: 0 !important;
+    }
+    .contact-page-right-content {
+        margin-left: 149px !important;
+        margin-top: -47px !important;
+    }
+    .contact-me-bottom-content {
+        padding-top: 94px !important;
+        margin-bottom: -95px !important;
+    }
+    .contact-me-bottom-map-content {
+        padding-top: 85px !important;
+        margin-bottom: -106px !important;
+    }
+    .list-colum-content h3 {
+        font-size: 16px !important;
+    }
+    .list-colum-content nav ul li a {
+        font-size: 14px !important;
+    }
+    .list-colum-content nav ul li {
+        margin: 7px 0 !important;
+    }
+    .list-colum-content p {
+        font-size: 13px !important;
+    }
+    .copy-link p {
+        font-size: 13px !important;
+    }
+    .copy-link p span {
+        font-size: 13px !important;
+    }
 }
