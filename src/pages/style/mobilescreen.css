@@ -125,6 +125,9 @@
     .copy-link p span {
         font-size: 13px !important;
     }
+    iframe {
+        width: 100% !important;
+    }
 }
 /*mobile-320-screen*/
 @media only screen and (max-width: 320px){
@@ -242,6 +245,9 @@
     }
     .copy-link p span {
         font-size: 13px !important;
+    }
+    iframe {
+        width: 100% !important;
     }
 }
 /*mobile-375-screen*/
@@ -361,6 +367,9 @@
     .copy-link p span {
         font-size: 13px !important;
     }
+    iframe {
+        width: 100% !important;
+    }
 }
 /*mobile-425-screen*/
 @media only screen and (max-width: 425px){
@@ -478,5 +487,8 @@
     }
     .copy-link p span {
         font-size: 13px !important;
+    }
+    iframe {
+        width: 100% !important;
     }
 }
