@@ -244,3 +244,239 @@
         font-size: 13px !important;
     }
 }
+/*mobile-375-screen*/
+@media only screen and (max-width: 375px){
+    .sidebar-heading-content button {
+        padding: 6px !important;
+    }
+    .sidebar-heading-content p {
+        margin-top: 21px !important;
+    }
+    .experience-main-content {
+        padding: 18px !important;
+        top: -47% !important;
+        right: -150px !important;
+        padding-left: 13px !important;
+    }
+    .sidebar-content .container-fluid .row {
+        padding: 55px 5% !important;
+    }
+    .navbar-content .container-fluid .row {
+        padding: 8px 0 !important;
+    }
+    .img-sidebar-main-content .container-fluid .row {
+        padding: 50px 0 !important;
+    }
+    .about-me-img-background-content::before {
+        display: none !important;
+    }
+    .main-heading h3 {
+        font-size: 21px !important;
+    }
+    .card-colum-content h4 {
+        font-size: 17px !important;
+    }
+    .card-colum-content p {
+        font-size: 14px !important;
+    }
+    .main-heading p {
+        font-size: 15px !important;
+    }
+    .main-card-colum .container-fluid .row {
+        padding: 0 5% !important;
+    }
+    .experience-main-content span {
+        font-size: 13px !important;
+    }
+    .experience-main-content a {
+        font-size: 12px !important;
+        margin-top: 4px !important;
+    }
+    .experience-main-content {
+        padding: 8px !important;
+        top: -47% !important;
+        width: 62% !important;
+        right: -123px !important;
+        padding-left: 11px !important;
+    }
+    .about-me-main-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .about-heading-content .container-fluid .row {
+        padding: 25px 4% !important;
+    }
+    .about-me-information-content {
+        padding-left: 0 !important;
+    }
+    .testimonial-card .card {
+        padding: 17px 14px !important;
+    }
+    .carousel-control-next-icon {
+        display: none !important;
+    }
+    .carousel-control-prev-icon {
+        display: none !important;
+    }
+    .slider-content .row {
+        padding: 20px 4px !important;
+    }
+    .contact-form-content button {
+        font-size: 12px !important;
+        padding: 11px 16px !important;
+        margin-bottom: 12px !important;
+    }
+    .contact-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .contact-me-location-content .row {
+        padding-top: 0 !important;
+    }
+    .contact-page-right-content {
+        margin-left: 149px !important;
+        margin-top: -47px !important;
+    }
+    .contact-me-bottom-content {
+        padding-top: 94px !important;
+        margin-bottom: -95px !important;
+    }
+    .contact-me-bottom-map-content {
+        padding-top: 85px !important;
+        margin-bottom: -106px !important;
+    }
+    .list-colum-content h3 {
+        font-size: 16px !important;
+    }
+    .list-colum-content nav ul li a {
+        font-size: 14px !important;
+    }
+    .list-colum-content nav ul li {
+        margin: 7px 0 !important;
+    }
+    .list-colum-content p {
+        font-size: 13px !important;
+    }
+    .copy-link p {
+        font-size: 13px !important;
+    }
+    .copy-link p span {
+        font-size: 13px !important;
+    }
+}
+/*mobile-425-screen*/
+@media only screen and (max-width: 425px){
+    .sidebar-heading-content button {
+        padding: 6px !important;
+    }
+    .sidebar-heading-content p {
+        margin-top: 21px !important;
+    }
+    .experience-main-content {
+        padding: 18px !important;
+        top: -47% !important;
+        right: -150px !important;
+        padding-left: 13px !important;
+    }
+    .sidebar-content .container-fluid .row {
+        padding: 55px 5% !important;
+    }
+    .navbar-content .container-fluid .row {
+        padding: 8px 0 !important;
+    }
+    .img-sidebar-main-content .container-fluid .row {
+        padding: 50px 0 !important;
+    }
+    .about-me-img-background-content::before {
+        display: none !important;
+    }
+    .main-heading h3 {
+        font-size: 21px !important;
+    }
+    .card-colum-content h4 {
+        font-size: 17px !important;
+    }
+    .card-colum-content p {
+        font-size: 14px !important;
+    }
+    .main-heading p {
+        font-size: 15px !important;
+    }
+    .main-card-colum .container-fluid .row {
+        padding: 0 5% !important;
+    }
+    .experience-main-content span {
+        font-size: 13px !important;
+    }
+    .experience-main-content a {
+        font-size: 12px !important;
+        margin-top: 4px !important;
+    }
+    .experience-main-content {
+        padding: 8px !important;
+        top: -47% !important;
+        width: 62% !important;
+        right: -123px !important;
+        padding-left: 11px !important;
+    }
+    .about-me-main-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .about-heading-content .container-fluid .row {
+        padding: 25px 4% !important;
+    }
+    .about-me-information-content {
+        padding-left: 0 !important;
+    }
+    .testimonial-card .card {
+        padding: 17px 14px !important;
+    }
+    .carousel-control-next-icon {
+        display: none !important;
+    }
+    .carousel-control-prev-icon {
+        display: none !important;
+    }
+    .slider-content .row {
+        padding: 20px 4px !important;
+    }
+    .contact-form-content button {
+        font-size: 12px !important;
+        padding: 11px 16px !important;
+        margin-bottom: 12px !important;
+    }
+    .contact-content .container-fluid .row {
+        padding: 0 4% !important;
+    }
+    .contact-me-location-content .row {
+        padding-top: 0 !important;
+    }
+    .contact-page-right-content {
+        margin-left: 149px !important;
+        margin-top: -47px !important;
+    }
+    .contact-me-bottom-content {
+        padding-top: 94px !important;
+        margin-bottom: -95px !important;
+    }
+    .contact-me-bottom-map-content {
+        padding-top: 85px !important;
+        margin-bottom: -106px !important;
+    }
+    .list-colum-content h3 {
+        font-size: 16px !important;
+    }
+    .list-colum-content nav ul li a {
+        font-size: 14px !important;
+    }
+    .list-colum-content nav ul li {
+        margin: 7px 0 !important;
+    }
+    .list-colum-content p {
+        font-size: 13px !important;
+    }
+    .copy-link p {
+        font-size: 13px !important;
+    }
+    .copy-link p span {
+        font-size: 13px !important;
+    }
+}
